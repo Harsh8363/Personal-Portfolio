@@ -1,0 +1,45 @@
+[
+  {
+    "role": "Leetcode",
+    "organisation": "Xpider_7080",
+    "startDate": "Jan, 2022",
+    "endDate": "Present",
+    "experiences": ["Solved 900+ DSA problems", "Achieved Knight Rating (1871)"],
+    "imageSrc": "history/lt.png"
+  },
+  {
+    "role": "Codechef",
+    "organisation": "piyush_8363",
+    "startDate": "Mar, 2022",
+    "endDate": "Present",
+    "experiences": ["Solved 300+ CP problems", "Earned 4 DSA badges on CN"],
+    "imageSrc": "history/CC.jpg"
+  },
+  {
+    "role": "Coding Ninjas",
+    "organisation": "Xpider_8804",
+    "startDate": "Mar, 2022",
+    "endDate": "Present",
+    "experiences": ["Solved 250+ DSA problems", "Earned 3 star on codechef"],
+    "imageSrc": "history/CN.png"
+  },
+  {
+    "role": "GeeksforGeeks",
+    "organisation": "harshvermavvip",
+    "startDate": "Jan, 2022",
+    "endDate": "Present",
+    "experiences": ["Solved 150+ DSA problems", "Achieved 520+ Coding Score"],
+    "imageSrc": "history/GFG.png"
+  },
+  {
+    "role": "Codeforces",
+    "organisation": "Harsh8363",
+    "startDate": "Apr, 2022",
+    "endDate": "Present",
+    "experiences": [
+      "Solved 230+ DSA problems",
+      "Achieved max rating of 1159"
+    ],
+    "imageSrc": "history/cf.jpg"
+  }
+]

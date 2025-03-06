@@ -1,0 +1,50 @@
+[
+  {
+    "title": "NatureNest",
+    "imageSrc": "projects/NatureNest.png",
+    "description": "Developed a Wildlife Donation SPA with engaging events, interactive testimonials, and intuitive donation features to promote global conservation, raising awareness and supporting endangered species.",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://harsh8363.github.io/NatureNest/",
+    "source": "https://github.com/Harsh8363/NatureNest"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "Designed a fully animated React portfolio with modern UI, smooth interactions, dynamic transitions, and a responsive layout for an engaging, visually appealing, and immersive user experience with seamless navigation.",
+    "skills": ["React", "CSS" , "HTML"],
+    "demo": "/",
+    "source": "https://github.com/Harsh8363/Personal-Portfolio"
+  },
+  {
+    "title": "EcoGive-Foundation",
+    "imageSrc": "projects/EcoGive.png",
+    "description": "Built a donation platform for seamless wastage management, enabling efficient resource distribution, ensuring accessibility, and delivering an intuitive, user-friendly experience.",
+    "skills": ["HTML", "CSS" , "JavaScript", "Formspree"],
+    "demo": " https://harsh8363.github.io/EcoGive-Foundation/",
+    "source": "https://github.com/Harsh8363/EcoGive-Foundation"
+  },
+  {
+    "title": "CraftsVilla",
+    "imageSrc": "projects/CraftsVilla.png",
+    "description": "Developed an e-commerce platform for artisans to sell directly, eliminating intermediaries and maximizing their business reach.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://github.com/Harsh8363/CraftsVilla",
+    "source": "https://github.com/Harsh8363/CraftsVilla"
+  },
+  {
+    "title": "HungerStop",
+    "imageSrc": "projects/HungerStop.png",
+    "description": "A MERN stack-based food ordering website with secure authentication, having real-time order tracking, and a highly responsive UI, user-friendly interface for seamless browsing and ordering.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://github.com/Harsh8363/HungerStop",
+    "source": "https://github.com/Harsh8363/HungerStop"
+  },
+  {
+    "title": "Railway Management System",
+    "imageSrc": "projects/IRCTC.png",
+    "description": "Built a secure railway management backend with Node.js, Express.js, and MySQL, ensuring accurate bookings, role-based access, and real-time seat updates.",
+    "skills": ["Node", "Express", "Bcrypt", "MySQL"],
+    "demo": "https://github.com/Harsh8363/API-IRCTC",
+    "source": "https://github.com/Harsh8363/API-IRCTC"
+  }
+]
